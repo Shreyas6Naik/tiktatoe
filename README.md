@@ -1,13 +1,13 @@
 # tiktatoe
-Description
+Description:
 This Python code is a simple implementation of a two-player tic-tac-toe game. It allows two players to take turns and play the classic game on a 3x3 board until one of them wins, it's a draw.
 
-Features
+Features:
 Players can take turns to make their moves.
 The code checks for a win by looking at rows, columns, and diagonals.
 It also checks for a draw (when all cells are filled).
 
-Usage
+Usage:
 Clone or download the repository containing the code.
 
 Open the Python script in your favorite code editor or IDE.
@@ -24,5 +24,5 @@ The script will announce the winner or declare a draw and display the final boar
 
 To restart the game, run the script again.
 
-Note
+Note:
 This code provides a basic implementation of the game and is meant for two human players. It doesn't include features like a computer opponent or saving game history. Feel free to enhance it and add more features as needed.
